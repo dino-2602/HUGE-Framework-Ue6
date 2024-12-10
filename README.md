@@ -38,7 +38,21 @@ Dieses Projekt ist eine angepasste Implementierung des Huge Frameworks, die es e
 ## Screenshots
 Screenshots sind in der Dokumentation enthalten, um die Funktionalität zu demonstrieren.
 
- **Login-Seite:**
+ **Login-Seite(User-Ansicht)**
+ 
+![Benutzerregistrierung](https://github.com/dino-2602/HUGE-Framework-Ue6/blob/main/huge/screenshots/user_regi.png)
+
+ **Account verifiziert(User-Ansicht)**
+
+![Account-ohne-verifizierung-erstellt](https://github.com/dino-2602/HUGE-Framework-Ue6/blob/main/huge/screenshots/user_crea.png)
+
+ **Login-Seite(Admin-Ansicht)**
+
+ ![Anmeldung-Admin](https://github.com/dino-2602/HUGE-Framework-Ue6/blob/main/huge/screenshots/only_admin_login.png)
+
+ **Admin-Account(Mit-Register-Button)**
+
+ ![Registrierung-nur-als-Admin-möglich](https://github.com/dino-2602/HUGE-Framework-Ue6/blob/main/huge/screenshots/admin_login.png)
 
 ## Installation
 1. Klone dieses Repository:
