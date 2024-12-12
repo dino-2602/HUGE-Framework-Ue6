@@ -59,4 +59,4 @@ Screenshots sind in der Dokumentation enthalten, um die Funktionalität zu demon
 ## Installation
 1. Klone dieses Repository:
    ```bash
-   git clone https://github.com/dein-benutzername/huge-framework-registration.git
+   git clone https://github.com/dino-2602/huge-framework-registration.git
